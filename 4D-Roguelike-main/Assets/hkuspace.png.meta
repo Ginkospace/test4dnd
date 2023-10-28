@@ -1,0 +1,777 @@
+fileFormatVersion: 2
+guid: f306fb1d9983a0247b05ece6997e9f4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5397073123628497295
+    second: hkuspace_0
+  - first:
+      213: -4886939536969367954
+    second: hkuspace_1
+  - first:
+      213: -3245474417707901470
+    second: hkuspace_2
+  - first:
+      213: -2695633501424738633
+    second: hkuspace_3
+  - first:
+      213: 5940405526152265608
+    second: hkuspace_4
+  - first:
+      213: -6894563372183176756
+    second: hkuspace_5
+  - first:
+      213: 9088647991322869303
+    second: hkuspace_6
+  - first:
+      213: -1161733151953098907
+    second: hkuspace_7
+  - first:
+      213: -7980582037391610188
+    second: hkuspace_8
+  - first:
+      213: -330871022427778176
+    second: hkuspace_9
+  - first:
+      213: -2457243124953376475
+    second: hkuspace_10
+  - first:
+      213: -3013617066370841551
+    second: hkuspace_11
+  - first:
+      213: -5829222088651973513
+    second: hkuspace_12
+  - first:
+      213: 2331292407727337857
+    second: hkuspace_13
+  - first:
+      213: 8835420214560744431
+    second: hkuspace_14
+  - first:
+      213: 478699698302256818
+    second: hkuspace_15
+  - first:
+      213: -3339614941477445145
+    second: hkuspace_16
+  - first:
+      213: -5607732617593193011
+    second: hkuspace_17
+  - first:
+      213: -4810186037245449326
+    second: hkuspace_18
+  - first:
+      213: 1252084768242208331
+    second: hkuspace_19
+  - first:
+      213: -4126651287666448913
+    second: hkuspace_20
+  - first:
+      213: -232804423586590801
+    second: hkuspace_21
+  - first:
+      213: -5485180547965138532
+    second: hkuspace_22
+  - first:
+      213: 5562964749547873714
+    second: hkuspace_23
+  - first:
+      213: -1259920607525901308
+    second: hkuspace_24
+  - first:
+      213: -4641105017057350627
+    second: hkuspace_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hkuspace_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f893fa8396146ea40800000000000000
+      internalID: 5397073123628497295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hkuspace_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 67
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ef02c126a1e2cb0800000000000000
+      internalID: -4886939536969367954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hkuspace_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 66
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed17ec5632c5f2d0800000000000000
+      internalID: -3245474417707901470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hkuspace_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 66
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be9feecc9f279ad0800000000000000
+      internalID: -2695633501424738633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hkuspace_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 66
+        width: 143
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fb2183a5f807250800000000000000
+      internalID: 5940405526152265608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hkuspace_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 66
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc93a9754279150a0800000000000000
+      internalID: -6894563372183176756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hkuspace_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 52
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73efd53c13d512e70800000000000000
+      internalID: 9088647991322869303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hkuspace_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 52
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5676a0a7ad1b0efe0800000000000000
+      internalID: -1161733151953098907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hkuspace_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 52
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bee8608be64f3190800000000000000
+      internalID: -7980582037391610188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hkuspace_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 52
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083d8b1ee82886bf0800000000000000
+      internalID: -330871022427778176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hkuspace_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 52
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529126a956e16edd0800000000000000
+      internalID: -2457243124953376475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hkuspace_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 51
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13449e5be3b7d26d0800000000000000
+      internalID: -3013617066370841551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hkuspace_12
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 52
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cd90915617a1fa0800000000000000
+      internalID: -5829222088651973513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hkuspace_13
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 52
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1813726d71a6a5020800000000000000
+      internalID: 2331292407727337857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hkuspace_14
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 52
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3e2328fd7bd9a70800000000000000
+      internalID: 8835420214560744431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hkuspace_15
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 52
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6846fd6dea4a600800000000000000
+      internalID: 478699698302256818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hkuspace_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 40
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e166ae97ed47a1d0800000000000000
+      internalID: -3339614941477445145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hkuspace_17
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 40
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd7cf435e45d22b0800000000000000
+      internalID: -5607732617593193011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hkuspace_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 40
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29be07ad849ce3db0800000000000000
+      internalID: -4810186037245449326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hkuspace_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 40
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e01cf767c406110800000000000000
+      internalID: 1252084768242208331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hkuspace_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 40
+        width: 61
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5abbe84803bb6c0800000000000000
+      internalID: -4126651287666448913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hkuspace_21
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 40
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf4bf53c99e4ccf0800000000000000
+      internalID: -232804423586590801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hkuspace_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 40
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99c7a57a59b0e3b0800000000000000
+      internalID: -5485180547965138532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hkuspace_23
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 40
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b522d247fe933d40800000000000000
+      internalID: 5562964749547873714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hkuspace_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 38
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c693ff1ecd38ee0800000000000000
+      internalID: -1259920607525901308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hkuspace_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 40
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c630d939b779fb0800000000000000
+      internalID: -4641105017057350627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hkuspace_0: 5397073123628497295
+      hkuspace_1: -4886939536969367954
+      hkuspace_10: -2457243124953376475
+      hkuspace_11: -3013617066370841551
+      hkuspace_12: -5829222088651973513
+      hkuspace_13: 2331292407727337857
+      hkuspace_14: 8835420214560744431
+      hkuspace_15: 478699698302256818
+      hkuspace_16: -3339614941477445145
+      hkuspace_17: -5607732617593193011
+      hkuspace_18: -4810186037245449326
+      hkuspace_19: 1252084768242208331
+      hkuspace_2: -3245474417707901470
+      hkuspace_20: -4126651287666448913
+      hkuspace_21: -232804423586590801
+      hkuspace_22: -5485180547965138532
+      hkuspace_23: 5562964749547873714
+      hkuspace_24: -1259920607525901308
+      hkuspace_25: -4641105017057350627
+      hkuspace_3: -2695633501424738633
+      hkuspace_4: 5940405526152265608
+      hkuspace_5: -6894563372183176756
+      hkuspace_6: 9088647991322869303
+      hkuspace_7: -1161733151953098907
+      hkuspace_8: -7980582037391610188
+      hkuspace_9: -330871022427778176
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
